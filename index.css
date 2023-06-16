@@ -1,0 +1,106 @@
+body {
+    font-family: 'Nunito', sans-serif;
+
+    text-align: center;
+    display: inline;
+    margin: auto;
+
+/* overflow-x: hidden; */
+}
+
+#male-city {
+    background: url("images/male3.jpg");
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    text-shadow: 0px 0px 1px black;
+    color: white;
+    padding-top: 120px;
+}
+
+#visit-male {
+    background: #E0C05E;
+    width: fit-content;
+    margin: auto;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 900px;
+
+
+
+}
+
+#enjoy-capital {
+    background: #E0C05E;
+    width: fit-content;
+    margin: 30px auto 0px auto;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 700px;
+}
+
+
+#act3 {
+    color:#1D3557 ;
+    background: #E0C05E;
+    margin: auto auto 70px;
+    padding: 20px 0;
+
+}
+
+.fun-activities {
+    display: flex;
+    font-size: small;
+    justify-content: space-around;
+   
+
+}
+#picnic{
+    width: 200px;
+}
+
+#concert{
+    width: 200px;
+}
+
+#sports{
+    width: 200px;
+}
+
+.img-activities {
+    width: 150px;
+    border-radius: 50%;
+    height: 130px;
+
+}
+
+.guide {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto;
+    border: 1px solid #E0C05E;
+    border-radius: 5px;
+    border-bottom: 5px solid #1D3557;
+    width: 400px;
+    height: 220px;
+    padding: 20px;
+    background-color: #E0C05E;
+    color: #1D3557;
+
+
+}
+
+#guide-info {
+    padding: 5px;
+   
+
+}
+
+#zee-img {
+    width: 400px;
+}
+
+
+span {
+    font-style: italic;
+}
